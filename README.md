@@ -6,11 +6,11 @@
 <p align='Middle'><a href='https://t.me/Mr_niki'><img src='' width='950"'></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F555247&width=890&lines=𝗠𝗥+𝗔𝗚𝗢𝗥𝗔+𝗧𝗛𝗘+𝗙𝗜𝗥𝗦𝗧+𝗕𝗢𝗧+𝗖𝗥𝗘𝗔𝗧𝗢𝗥+𝗔𝗡𝗗+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+𝗙𝗥𝗢𝗠+𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔%E2%9C%8C">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F555247&width=890&lines=𝗠𝗥+NIKI+𝗧𝗛𝗘+𝗙𝗜𝗥𝗦𝗧+𝗕𝗢𝗧+𝗖𝗥𝗘𝗔𝗧𝗢𝗥+𝗔𝗡𝗗+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+𝗙𝗥𝗢𝗠+𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔%E2%9C%8C">
 </p> 
 
 ## 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-![MR AGORA's's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-AGORA&show_icons=true&theme=synthwave) &nbsp;
+![MR niki's's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-NIKI&show_icons=true&theme=synthwave) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-AGORA&layout=compact&show_icons=true&theme=synthwave)
 
 <h1> <img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍʀ ᴀɢᴏʀᴀ </h1>
